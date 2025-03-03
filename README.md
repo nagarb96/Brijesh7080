@@ -62,7 +62,7 @@ I'm a passionate frontend developer with experience in building dynamic and resp
 ---
 
 ## 📚 Education  
-🎓 **GNIIT Software Engineering** – NIIT, South Ext. (2015 - 2019)  
+🎓 **GNIIT Software Engineering** – NIIT, South Ext. (2016 - 2019)  
 🎓 **B.A.** – Indira Gandhi Open University (2016 - 2019)  
 ---
 
